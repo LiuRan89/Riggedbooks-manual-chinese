@@ -1,4 +1,7 @@
 # 常见问题
+---
+###❓<font color="#dd0000">如何减少页数?</font><br />
+视频教程:https://youtu.be/VriFDudqick
 
 ---
 ###❓<font color="#dd0000">为什么只做了100页?</font><br />
