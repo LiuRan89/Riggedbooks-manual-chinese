@@ -1,7 +1,7 @@
 # 常见问题
 ---
 ###❓<font color="#dd0000">如何移动,旋转,缩放?</font><br />
-参考：**[变换](transform.md)**
+参考页面：**[书本变换](transform.md)**
 
 ---
 ###❓<font color="#dd0000">如何减少页数?</font><br />
