@@ -5,7 +5,7 @@
 
 ---
 ###❓<font color="#dd0000">如何减少页数?</font><br />
-视频教程:[https://youtu.be/VriFDudqick](https://youtu.be/VriFDudqick)
+视频教程:[[https://youtu.be/VriFDudqick](https://www.bilibili.com/video/BV1Af4y1Z7kJ?p=4&vd_source=0ab5e4004836fdf2c4bdb309a7fd25b8&t=0.6)]([https://youtu.be/VriFDudqick](https://www.bilibili.com/video/BV1Af4y1Z7kJ?p=4&vd_source=0ab5e4004836fdf2c4bdb309a7fd25b8&t=0.6))
 
 ---
 ###❓<font color="#dd0000">为什么只做了100页?</font><br />
