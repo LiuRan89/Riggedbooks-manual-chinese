@@ -2,10 +2,27 @@
 ---
 ###❓<font color="#dd0000">如何移动,旋转,缩放?</font><br />
 参考页面：**[书本变换](transform.md)**
+视频教程：[https://www.bilibili.com/video/BV1Af4y1Z7kJ?p=3](https://www.bilibili.com/video/BV1Af4y1Z7kJ?p=3)
 
 ---
 ###❓<font color="#dd0000">如何减少页数?</font><br />
-视频教程:[https://www.bilibili.com/video/BV1Af4y1Z7kJ?p=4&vd_source=0ab5e4004836fdf2c4bdb309a7fd25b8&t=0.6](https://www.bilibili.com/video/BV1Af4y1Z7kJ?p=4&vd_source=0ab5e4004836fdf2c4bdb309a7fd25b8&t=0.6)
+视频教程:[https://www.bilibili.com/video/BV1Af4y1Z7kJ?p=4](https://www.bilibili.com/video/BV1Af4y1Z7kJ?p=4)
+
+---
+###❓<font color="#dd0000">如何调节凹槽的UV和形状?</font><br />
+视频教程:[https://www.bilibili.com/video/BV1Af4y1Z7kJ?p=5](https://www.bilibili.com/video/BV1Af4y1Z7kJ?p=5)
+
+---
+###❓<font color="#dd0000">如何在封面添加立体字?</font><br />
+视频教程:[https://www.bilibili.com/video/BV1Af4y1Z7kJ?p=6](https://www.bilibili.com/video/BV1Af4y1Z7kJ?p=6)
+
+---
+###❓<font color="#dd0000">如何批量调节书页材质的参数?</font><br />
+视频教程:[https://www.bilibili.com/video/BV1Af4y1Z7kJ?p=7](https://www.bilibili.com/video/BV1Af4y1Z7kJ?p=7)
+
+---
+###❓<font color="#dd0000">如何给封面厚度部分贴图?</font><br />
+视频教程:[https://www.bilibili.com/video/BV1Af4y1Z7kJ?p=8](https://www.bilibili.com/video/BV1Af4y1Z7kJ?p=8)
 
 ---
 ###❓<font color="#dd0000">为什么只做了100页?</font><br />
