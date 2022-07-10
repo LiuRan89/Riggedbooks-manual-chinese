@@ -19,6 +19,14 @@
 ---
 ###❓<font color="#dd0000">如何批量调节书页材质的参数?</font><br />
 视频教程:[https://www.bilibili.com/video/BV1Af4y1Z7kJ?p=7](https://www.bilibili.com/video/BV1Af4y1Z7kJ?p=7)
+需要的代码：
+```
+import bpy
+for obj in bpy.context.selected_objects:
+    m=obj.data.materials[0]
+    m.node_tree.nodes["Principled BSDF"].inputs['Specular'].default_value = 0.5    
+
+```
 
 ---
 ###❓<font color="#dd0000">如何给封面厚度部分贴图?</font><br />
