@@ -6,6 +6,7 @@
 在书脊的模型中间，可以找到一个空物体，这个空物体是用来单独调整书绑带和书内页的深度的，这个空物体可以左右移动，可以解决部位的穿插问题。
 ![](image/coverspineintersolveA.png"")
 ![](image/coverspineintersolveB.png"")
+
 ---
 ###❓<font color="#dd0000">如何移动,旋转,缩放?</font><br />
 参考页面：**[书本变换](transform.md)**
