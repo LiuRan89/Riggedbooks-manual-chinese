@@ -1,5 +1,12 @@
 # 常见问题
 ---
+###❓<font color="#dd0000">关于调节书脊弯曲穿插的问题？</font><br />
+问题描述：调节书脊深度时，书脊和书绑带和书内页穿插的问题
+![](image/coverspineinter.gif "")
+在书脊的模型中间，可以找到一个空物体，这个空物体是用来单独调整书绑带和书内页的深度的，这个空物体可以左右移动，可以解决部位的穿插问题。
+![](image/coverspineintersolveA.png"")
+![](image/coverspineintersolveB.png"")
+---
 ###❓<font color="#dd0000">如何移动,旋转,缩放?</font><br />
 参考页面：**[书本变换](transform.md)**
 视频教程：[https://www.bilibili.com/video/BV1Af4y1Z7kJ?p=3](https://www.bilibili.com/video/BV1Af4y1Z7kJ?p=3)
