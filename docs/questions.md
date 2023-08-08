@@ -100,7 +100,7 @@ for obj in bpy.context.selected_objects:
 
 ###❓<font color="#dd0000">"批量替换贴图" 没有响应？</font><br />
 1. 检查贴图格式: jpg
-2. 检查贴图名字: PageTex001.jpg，   PageTex002.jpg，  ...... PageTex199.jpg， Cover_Front_Tex，Cover_Spine_Tex,Cover_Back_tex
+2. 检查贴图名字: PageTex001.jpg，   PageTex002.jpg，  ...... PageTex199.jpg， Cover_Front_Tex，Cover_Spine_Tex,Cover_Back_Tex
 3. 确认先选择了控制器，然后再执行命令。
 4. 仍然没效果，可以点击reset ，复位贴图。
 5. 仍然没效果，联系邮箱 (547198894@qq.com):发一些你的blender文件截图和贴图截图。
